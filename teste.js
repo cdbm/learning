@@ -8,3 +8,4 @@ function fill(obj){
 
 var res = "eae";
 yay
+var res = "opa amigão calma la";
