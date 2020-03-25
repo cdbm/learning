@@ -5,3 +5,5 @@ console.log(x)
 function fill(obj){
     return obj % 2 == 0;
 }  oi 
+
+var res = "eae";
